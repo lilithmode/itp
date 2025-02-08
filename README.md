@@ -1,13 +1,9 @@
-# itp
-## subheader two
-### subheader three
+# itp - intro to programming
+## ok i think i'm figuring out this textmate thing now!
+### hi guys <3 you should play a visual novel i made with some friends
 
-[WRITE THE TEXT THAT YOU WANT TO DISPLAY](https://youtube.com/)
+[Here's the link!](https://lilithmode.itch.io/mesh)
 
-`
-write code inside the tick marks (``)
-example
-example
-example
+`placeholder text LOL
 `
  
