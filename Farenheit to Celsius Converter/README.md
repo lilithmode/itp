@@ -7,17 +7,9 @@
 #### thank you <3 
 
 `old code
-let f = 99;
-
-let c = (f-32) * 5 / 9;
-
-console.log('${f} Farenheit is converted to ${c} Celsius')`
+let f = 99;let c = (f-32) * 5 / 9;console.log('${f} Farenheit is converted to ${c} Celsius')`
 
 #### do you see my plight now
 
-`new code
-let f = 99;
-
-let c = (f-32) * 5 / 9;
-
-console.log(`${f} Farenheit is converted to ${c} Celsius`)`
+`new code 
+let f = 99;let c = (f-32) * 5 / 9;console.log(`${f} Farenheit is converted to ${c} Celsius`)`
