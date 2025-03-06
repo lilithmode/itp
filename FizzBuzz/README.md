@@ -3,7 +3,8 @@
 
 ### I hope you're doing good Rachel. Here's a cool [video!](https://www.youtube.com/watch?v=EFmxPMdBqmU&ab_channel=AlanBecker) I understood some of these words! :D
 
-`    if (i % 3 === 0 && i % 5 === 0) {
+`    for (let i = 1; i <= 100; i++) {
+    if (i % 3 === 0 && i % 5 === 0) {
         console.log("FizzBuzz");
     } else if (i % 3 === 0) {
         console.log("Fizz");
