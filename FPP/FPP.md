@@ -10,11 +10,11 @@ My project will be a twine engine game that goes through dialogue and a characte
 
 ## List at least 3 resources you know you will use in developing your project
 
-One of the resources I will use for this project are my two friends Wen and Monique. They have a good background in similar languages so being able to consult with them would be a fun experiment and a good second / third brain to bounce ideas off of.
+One of the resources I will use for this project are my two friends Wen and Monique. They have a good background in similar languages so being able to consult with them would be a fun experiment and a good second / third brain to bounce ideas off of. [monique's work here](https://falseaxiom.github.io/)
 
-Another resource that I've downloaded is the Twine cookbook. Just being able to read and do some codealongs for features i want to implement would be beneficial for my development cycle. Even if I don't finish it in time, I'll have the knowledge to really lock in the ideas I want to come across and proceed even further.
+Another resource that I've downloaded is the Twine cookbook. Just being able to read and do some codealongs for features i want to implement would be beneficial for my development cycle. Even if I don't finish it in time, I'll have the knowledge to really lock in the ideas I want to come across and proceed even further.[twine cookbook here](https://twinery.org/cookbook/)
 
-A third resource I would use is probably a lot of the forum posts and a mixture of chatGPT. I'll document anything I do with GPT, but besides that I think I could trust the community a bit more when it comes to certain things like audio implementation and other things like password gimmicks.
+A third resource I would use is probably a lot of the forum posts and a mixture of chatGPT. I'll document anything I do with GPT, but besides that I think I could trust the community a bit more when it comes to certain things like audio implementation and other things like password gimmicks. [twine forum posts here](https://twinery.org/forum/)
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -48,7 +48,7 @@ I can totally see this overlapping with a possible 401 final project with Lee Gi
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I want to have a playable demo that goes through the very fundamentals of the game mechanics. Playing the game, seeing an ending, trying again. 
+I want to have a playable demo that goes through the very fundamentals of the game mechanics. Playing the game, seeing an ending, trying again. The game mechanics would be just going through the narrative and listening, akin to a visual novel.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
