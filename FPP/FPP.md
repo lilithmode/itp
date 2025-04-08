@@ -48,7 +48,7 @@ last fun idea would be making fun of captchas, where you’re about to send an i
 
 ## Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
 
-No. Not anymore. I've committed into a different project around this time, but
+No. Not anymore. I've committed into a different project around this time, but will do my best to juggle all of these projects. It will be fun!
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
